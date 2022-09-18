@@ -1,0 +1,35 @@
+.items{
+    position: relative;
+    width: 70%;
+    margin: 50px auto;
+    height: 450px;
+    overflow: auto;
+  
+    
+
+   
+    
+}
+.btns{
+   
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.final{
+    overflow: hidden;
+   
+}
+
+.icons{
+    margin-top: 15px;
+    
+}
+
+.author{
+    position: absolute;
+    right: 100px;
+    bottom: 10px;
+}
